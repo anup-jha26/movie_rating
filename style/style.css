@@ -1,0 +1,6 @@
+/* Frosted glass effect if needed */
+.frosted {
+    background-color: rgba(18, 18, 18, 0.7);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+}
