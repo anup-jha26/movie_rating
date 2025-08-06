@@ -60,8 +60,6 @@ To view the site locally:
 
 ![MovieNest Screenshot](assets/screenshot-home.png)
 
-> Make sure `screenshot-home.png` is in the `assets/` folder.
-
 ---
 
 ## 🔧 Customization Tips
@@ -82,3 +80,4 @@ Please do not redistribute for commercial purposes without permission.
 ## 📬 Contact
 
 For suggestions, improvements, or collaboration, feel free to reach out or fork the project and make it your own!
+
